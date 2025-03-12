@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+    <string name="click_here_to_add_books_info">Click here to add books info</string>
+    <string name="title_of_book">Title of Book</string>
+    <string name="add">Add</string>
+    <string name="number_of_pages">Number of Pages</string>
+    <string name="author_of_book">Author of Book</string>
+</resources>
